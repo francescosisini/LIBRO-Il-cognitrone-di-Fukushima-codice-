@@ -9,6 +9,6 @@ alla completezza della forma e del contenuto.Il libro è rivolto a tutti coloro 
 Può essere letto a diversi livelli in base alla propria preparazione di partenza. 
 Per il lettore completamente neofita di matematica e programmazione si consiglia anche la lettura 
 di [Introduzione alle reti neurali con esempi in linguaggio C](https://www.amazon.it/Introduzione-alle-neurali-esempi-linguaggio/dp/1692945319)
-degli stessi autori, 
-che può essere trovata sempre su Amazon.
+degli stessi autori,  che può essere trovata sempre su Amazon.
+
 ![copertina](mezza.jpg)
