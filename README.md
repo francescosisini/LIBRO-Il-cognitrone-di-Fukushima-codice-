@@ -16,4 +16,4 @@ Per il lettore completamente neofita di matematica e programmazione si consiglia
 di [Introduzione alle reti neurali con esempi in linguaggio C](https://www.amazon.it/Introduzione-alle-neurali-esempi-linguaggio/dp/1692945319)
 degli stessi autori,  che può essere trovata sempre su Amazon.
 
-![copertina](mezza.jpg)
+![copertina](cognitrone.jpg)
