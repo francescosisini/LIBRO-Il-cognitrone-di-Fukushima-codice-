@@ -2,6 +2,8 @@
 
 In questo repository sono mantenuti i codici del libro che è disponibile su [Amazon](https://www.amazon.it/Reti-neurali-non-supervisionate-cognitrone/dp/1798929244)
 
+L'[estratto](Estratto.pdf) del libro è disponibile 
+
 ## Sinossi
 È possibile che il cervello apprenda da solo? Le cellule nervose, connesse tra loro, 
 sono sufficienti a fornirgli le capacità cognitive?
