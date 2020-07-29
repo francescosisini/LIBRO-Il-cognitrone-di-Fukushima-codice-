@@ -1,7 +1,8 @@
-# Reti neurali non supervisionate: il cognitrone di Fukushima: Con codice in linguaggio C
-[vai su Amazon](https://www.amazon.it/Reti-neurali-non-supervisionate-cognitrone/dp/1798929244)
+# Codici del libro: *Reti neurali non supervisionate: il cognitrone di Fukushima: Con codice in linguaggio C*
 
+In questo repository sono mantenuti i codici del libro che è disponibile su [Amazon](https://www.amazon.it/Reti-neurali-non-supervisionate-cognitrone/dp/1798929244)
 
+##Sinossi
 È possibile che il cervello apprenda da solo? Le cellule nervose, connesse tra loro, 
 sono sufficienti a fornirgli le capacità cognitive?
 Con il suo famoso esperimento,nel 1975 Fukushima provò per primo questa ipotesi. 
